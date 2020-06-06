@@ -1,0 +1,92 @@
+.body, html {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background: #fca311;
+}
+
+
+.btn-comprar {
+    background:  #fca311;
+    margin: 0 auto;
+}
+
+.container{
+  background: #fca311;
+}
+
+
+
+.btn-outline-primary {
+    color:  #fca311;
+    border-color: #fca311;
+}
+
+.btn-filter:hover {
+    background:  #fca311;
+    color: #fca311;
+ }
+
+.media{
+    background: #fca311;
+}
+
+.compras img{
+    width: 30px;
+    height: 30px;
+    line-height:10px;
+    color: #fca311;
+}
+
+.compras{
+    font-size: 12px;
+    padding-right: 35px;
+    text-align: right;
+    width: 75px;
+    height: 125px;
+    position: right;
+    float: right;
+    bottom: 14px;
+    clear: right;
+
+}
+.compras ol li{
+    display: inline;
+    text-align: center;
+    list-style-type: none;
+}
+
+.carrinho{
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+    
+}
+
+#menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:#14213d;
+    list-style:none;
+}
+
+#menu ul li { display: inline; 
+}
+
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+    background-color:#14213d;
+    color: #14213d;
+    text-decoration: none;
+    border-bottom:3px solid #14213d;
+}
+
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}

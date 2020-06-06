@@ -1,0 +1,28 @@
+
+.body, html {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background: #14213d
+}
+
+.btn-comprar {
+    background:  #14213d
+    margin: 0 auto;
+}
+
+.btn-outline-primary {
+    color:  #14213d
+    border-color:  #14213d
+}
+
+.btn-filter:hover {
+    background:  #14213d
+    color: #fff }
+
+.media{
+    background: #14213d;
+}
